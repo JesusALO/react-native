@@ -6,15 +6,11 @@ React Native is a JavaScript framework to create real native applications for iO
 
 ### Requirements
 
-Android Studio
-
-Android's Emulator
-
-Visual Studio Code
-
-Node JS (Metro)
-
-JDK (Java)
+-Android Studio
+-Android's Emulator
+-Visual Studio Code
+-Node JS (Metro)
+-JDK (Java)
 
 ### Quick start
 First we need to clone this repo by using the following command inside of our desired folder:
